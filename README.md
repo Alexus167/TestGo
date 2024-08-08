@@ -7,5 +7,9 @@ y luego para ejecutarlo
 <pre><code>$ ./encriptaTuMensaje.go
 </code></pre>
 
+o en lugar de crear un ejecutable puede ingresar el siguiente comando 
+<pre><code>$ go run encriptaTuMensaje.go
+</code></pre>
+
  o bien copiar el codigo en el sandbox oficial de Go 
 <a href="http://go.dev/play/">En este Link</a> y hacer click en Run
